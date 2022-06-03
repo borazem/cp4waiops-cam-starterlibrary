@@ -56,7 +56,6 @@
       "name": "vm_1_dns_servers",
       "type": "list",
       "description": "DNS servers for the virtual network adapter",
-      "default": "192.168.10.2",
       "hidden": false,
       "label": "DNS Servers - vm_1",
       "secured": false,
