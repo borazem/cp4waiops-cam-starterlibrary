@@ -67,7 +67,6 @@
       "name": "vm_1_dns_suffixes",
       "type": "list",
       "description": "Name resolution suffixes for the virtual network adapter",
-      "default": "benoibm.com",
       "hidden": false,
       "label": "DNS Suffixes - vm_1",
       "secured": false,
